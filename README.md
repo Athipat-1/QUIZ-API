@@ -27,8 +27,8 @@
 ---------------------------------------------------------------------------------------------
 
 ## TEST ##
-เทสในCMD:curl http://localhost:4321/sawasdeekub
-เทสในTERMINAL:http://localhost:4321/sawasdeekub
+เทสในCMDใช้คำสั่ง:curl http://localhost:4321/sawasdeekub
+เทสในBROWSERใช้คำสั่ง:http://localhost:4321/sawasdeekub
 
 ---------------------------------------------------------------------------------------------
 
