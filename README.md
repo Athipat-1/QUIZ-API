@@ -1,0 +1,41 @@
+## PROJECT STRUCTURE ##
+
+  QUIZ API
+   -api1
+    -api1.py
+    -Dockerfile
+    -requirements.txt
+  -api2
+    -api2.py
+    -Dockerfile
+    -requirements.txt
+  -docker-compose.yml
+  -README.md
+
+---------------------------------------------------------------------------------------------
+
+## PREPARE ##
+
+  โหลด Docker desktop
+  ใช้คำสั่งเพื่อ Deploy (docker-compose up --build)        
+  เช็ค Docker (Docker ps)
+  Example:ถ้าขึ้น
+  CONTAINER ID   IMAGE   COMMAND    CREATED   STATUS    PORTS     NAMES
+  แล้วมีข้อมูล 
+  หมายความว่าใช้ได้แล้ว จะขึ้นประมาณนี้ https://ibb.co/Zz7jzCNY
+
+---------------------------------------------------------------------------------------------
+
+## TEST ##
+เทสในCMD:curl http://localhost:4321/sawasdeekub
+เทสในTERMINAL:http://localhost:4321/sawasdeekub
+
+---------------------------------------------------------------------------------------------
+
+## OUTPUT ## 
+
+{
+  "message_from_api2": "sawasdeekub from API2!"
+}
+
+---------------------------------------------------------------------------------------------
