@@ -15,6 +15,8 @@
 ---------------------------------------------------------------------------------------------
 
 ## PREPARE ##
+  ใช้คำสั่ง git cloneตามด้วยhttps://github.com/Athipat-1/QUIZ-API 
+  เพื่อโหลดโค้ดลง vscode
 
   โหลด Docker desktop [https://www.docker.com/get-started/]
   ใช้คำสั่งเพื่อ Deploy (docker-compose up --build)        
