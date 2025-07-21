@@ -16,7 +16,7 @@
 
 ## PREPARE ##
 
-  โหลด Docker desktop
+  โหลด Docker desktop [https://www.docker.com/get-started/]
   ใช้คำสั่งเพื่อ Deploy (docker-compose up --build)        
   เช็ค Docker (Docker ps)
   Example:ถ้าขึ้น
